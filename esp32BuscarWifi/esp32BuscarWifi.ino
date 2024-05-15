@@ -1,3 +1,5 @@
+//Procurar rede Wifi disponivel
+
 #include <WiFi.h>
 
 void setup() {

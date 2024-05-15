@@ -1,4 +1,6 @@
 // Pinagem do LED embutido na placa ESP32
+
+
 const int ledPin = 2; // GPIO2
 
 // Função para piscar um ponto

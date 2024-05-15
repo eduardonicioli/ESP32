@@ -1,3 +1,5 @@
+//Calculando o peso usando 4 células de carga com o HX711
+
 #include "HX711.h"
 #define DT_PIN 4
 #define SCK_PIN 2

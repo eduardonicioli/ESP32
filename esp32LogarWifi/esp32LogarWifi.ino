@@ -1,7 +1,9 @@
+//login rede wifi
+
 #include <WiFi.h>
 
-const char* ssid = "Fatec24GHz";
-const char* password = "fatecitapira";
+const char* ssid = "seu SSID"; //entre com a SSID da rede que deseja conectar
+const char* password = "sua senha"; //entre com a senha da rede Wifi
 int led = 2;
 
 void setup() 

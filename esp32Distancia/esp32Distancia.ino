@@ -1,4 +1,4 @@
-//medindo distancia
+//Calculando a distância com sensor Ultrasson
 
 
 const int PINO_TRIG = 4; //pino D4 conectado no TRIGGER
