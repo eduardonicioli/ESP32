@@ -1,5 +1,5 @@
-# ESP32
-Respositório para projetos de ESP32 no ArduinoIDE
+# Projetos em Arduino IDE para microcontrolador ESP32
+<b>Respositório para projetos de ESP32 no ArduinoIDE</b>
 <li>esp32BuscarWifi</li> Código para procurar redes WiFi acessiveis.
 <li>esp32CodigoMorse</li> Código para testar o LED do do ESP32 usando código morse SOS
 <li>esp32Distancia</li> Código para medir distância usando sensor ultrassônico HC-SR04 (Alcance 2cm ~ 4m)
