@@ -2,7 +2,8 @@
 Repositório dedicado a projetos desenvolvidos para ESP32 utilizando a Arduino IDE. Explore diversas funcionalidades implementadas nos projetos abaixo. 🚀
 
 <h2>📂 Projetos Disponíveis</h2><p>
-<big>🔍 esp32BuscarWifi</big><br>
+  
+<b>🔍 esp32BuscarWifi</b><p>
 <b>Descrição:</b> Código para procurar redes WiFi acessíveis.
 
 <b>Funcionalidade:</b> Lista as redes disponíveis ao alcance do ESP32.
