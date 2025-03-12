@@ -32,13 +32,12 @@ Repositório dedicado a projetos desenvolvidos para ESP32 utilizando a Arduino I
 </ul>
 
 
-## ⚙️ Como Utilizar
-1.Clone este repositório:
-```bash
-git clone https://github.com/seuUsuario/seuRepositorioESP32.git
-```
-2.Abra o código desejado no Arduino IDE.
-
-3.Configure a placa como ESP32 no menu "Ferramentas".
-
-4.Conecte o ESP32 ao computador via USB e envie o código.
+<h2>⚙️ Como Utilizar</h2>
+<ol>
+  <li>Clone este repositório:
+    <pre><code>git clone https://github.com/seuUsuario/seuRepositorioESP32.git</code></pre>
+  </li>
+  <li>Abra o código desejado no Arduino IDE.</li>
+  <li>Configure a placa como ESP32 no menu "Ferramentas".</li>
+  <li>Conecte o ESP32 ao computador via USB e envie o código.</li>
+</ol>
