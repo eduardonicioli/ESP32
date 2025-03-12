@@ -1,7 +1,7 @@
 <h3>🤖 Projetos em Arduino IDE para Microcontrolador <b>ESP32</b></h3>
 Repositório dedicado a projetos desenvolvidos para ESP32 utilizando a Arduino IDE. Explore diversas funcionalidades implementadas nos projetos abaixo. 🚀
 
-<h2>📂 Projetos Disponíveis</h2>
+<h2>📂 Projetos Disponíveis</h2><p>
 <big>🔍 esp32BuscarWifi</big><br>
 <b>Descrição:</b> Código para procurar redes WiFi acessíveis.
 
