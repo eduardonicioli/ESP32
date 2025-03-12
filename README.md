@@ -32,7 +32,7 @@ Repositório dedicado a projetos desenvolvidos para ESP32 utilizando a Arduino I
 </ul>
 
 
-## ⚙️ Instalçaão
+## ⚙️ Como Utilizar
 1.Clone este repositório:
 ```bash
 git clone https://github.com/seuUsuario/seuRepositorioESP32.git
